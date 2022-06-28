@@ -1,61 +1,60 @@
 {
-  "productos": [
-    {
-      "id": "1",
-      "name": "God Of War",
-      "price": 500,
-      "imagen": "https://th.bing.com/th/id/OIP.iS1y4dERUzBN1Ld3ochhYgHaEK?pid=ImgDet&rs=1"
-    },
+    "productos": [{
+            "id": "1",
+            "name": "God Of War",
+            "price": 500,
+            "imagen": "https://th.bing.com/th/id/OIP.iS1y4dERUzBN1Ld3ochhYgHaEK?pid=ImgDet&rs=1"
+        },
 
-    {
-      "id": "2",
-      "name": "Forza Forbidden West",
-      "price": 300,
-      "imagen": "https://th.bing.com/th/id/OIP.iS1y4dERUzBN1Ld3ochhYgHaEK?pid=ImgDet&rs=1"
-    },
-    {
-      "id": "2",
-      "name": "Forza Forbidden West",
-      "price": 300,
-      "imagen": "https://th.bing.com/th/id/OIP.iS1y4dERUzBN1Ld3ochhYgHaEK?pid=ImgDet&rs=1"
-    },
+        {
+            "id": "2",
+            "name": "Forza Forbidden West",
+            "price": 500,
+            "imagen": "https://1.bp.blogspot.com/-i_WiUE1nn7g/Xuuyg7tD_uI/AAAAAAAAGhA/cZCcr2SphdgMB0_nx2oCsyVlBjtgmrnvwCLcBGAsYHQ/s1600/HFW.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Days Gone",
+            "price": 500,
+            "imagen": "https://th.bing.com/th/id/R.7e51e725f07fd4210833850175069a1a?rik=7e2JBj4c0IFUnQ&pid=ImgRaw&r=0"
+        },
 
-    {
-      "id": "3",
-      "name": "Forza Horizon 5",
-      "price": 500,
-      "imagen": "https://th.bing.com/th/id/OIP.iS1y4dERUzBN1Ld3ochhYgHaEK?pid=ImgDet&rs=1"
-    },
+        {
+            "id": "3",
+            "name": "Forza Horizon 5",
+            "price": 500,
+            "imagen": "https://www.3djuegos.com/juegos/15941/forza_horizon_4/fotos/maestras/forza_horizon_4-4574573.jpg"
+        },
 
-    {
-      "id": "4",
-      "name": "Mario Bross Odyssy",
-      "price": 600,
-      "imagen": "https://th.bing.com/th/id/OIP.iS1y4dERUzBN1Ld3ochhYgHaEK?pid=ImgDet&rs=1"
-    },
-    {
-      "id": "5",
-      "name": "Mario Bross Odyssy",
-      "price": 600,
-      "imagen": "https://th.bing.com/th/id/OIP.iS1y4dERUzBN1Ld3ochhYgHaEK?pid=ImgDet&rs=1"
-    },
-    {
-      "id": "6",
-      "name": "Mario Bross Odyssy",
-      "price": 600,
-      "imagen": "https://th.bing.com/th/id/OIP.iS1y4dERUzBN1Ld3ochhYgHaEK?pid=ImgDet&rs=1"
-    },
-    {
-      "id": "7",
-      "name": "Mario Bross Odyssy",
-      "price": 600,
-      "imagen": "https://th.bing.com/th/id/OIP.iS1y4dERUzBN1Ld3ochhYgHaEK?pid=ImgDet&rs=1"
-    },
-    {
-      "id": "8",
-      "name": "Mario Bross Odyssy",
-      "price": 600,
-      "imagen": "https://th.bing.com/th/id/OIP.iS1y4dERUzBN1Ld3ochhYgHaEK?pid=ImgDet&rs=1"
-    }
-  ]
+        {
+            "id": "4",
+            "name": "Mario Bross Odyssy",
+            "price": 600,
+            "imagen": "https://th.bing.com/th/id/R.f4a18f8fd105944983542de020a1a817?rik=%2bMe9Bnd0h8FD7Q&pid=ImgRaw&r=0"
+        },
+        {
+            "id": "5",
+            "name": "Pokemon Arceus",
+            "price": 600,
+            "imagen": "https://progioco.com/wp-content/uploads/2021/08/1629589977_Come-ottenere-la-carta-preordinata-di-Pokemon-Legends-Arceus-TCG-1024x576.jpg"
+        },
+        {
+            "id": "6",
+            "name": "The Last Of Us 2",
+            "price": 600,
+            "imagen": "https://www.meuwindows.com/wp-content/uploads/2020/06/tema-the-last-of-us-part-ii-1.jpg"
+        },
+        {
+            "id": "7",
+            "name": "Doom Eternal",
+            "price": 600,
+            "imagen": "https://th.bing.com/th/id/R.e4e3dbe9d3b078ca52bf5e3f63bd83e7?rik=7zodNoQ43r7bEA&pid=ImgRaw&r=0"
+        },
+        {
+            "id": "8",
+            "name": "Need For Speed Heat",
+            "price": 600,
+            "imagen": "https://1.bp.blogspot.com/-BWM9JKJrQys/XcBDfgTXSwI/AAAAAAAAAp0/V68W1XlCHewyjMxolne4WQABozziravoACLcBGAsYHQ/s1600/nfsheat.jpg"
+        }
+    ]
 }
