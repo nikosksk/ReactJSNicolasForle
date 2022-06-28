@@ -3,7 +3,6 @@ import ItemDetail from '../ItemDetail/ItemDetail'
 import { getFirestore, doc, getDoc } from "firebase/firestore";
 import { useParams } from 'react-router';
 
-const film = { id: 1, price: 400 }
 
 const ItemDetailContainer = () => {
     const [data, setData] = useState({});
